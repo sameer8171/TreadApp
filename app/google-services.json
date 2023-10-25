@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281059659845",
+    "project_id": "threadsapp-2b245",
+    "storage_bucket": "threadsapp-2b245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281059659845:android:b042ad11c88d7f2280132c",
+        "android_client_info": {
+          "package_name": "com.acutepro.treadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281059659845-rvi743irt2q67aig0c31bhiva8kud4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPWgg4FFEJPmPxKEnaWgimJMJOc-K5rf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281059659845-rvi743irt2q67aig0c31bhiva8kud4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
